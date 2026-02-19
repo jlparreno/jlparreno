@@ -4,7 +4,7 @@
   <h3 align="center">My name is Javier Lapeña</h3>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer | Computer Graphics | Real-Time Rendering</h4>
+  <h4 align="center">Render Engineer | Computer Graphics | Real-Time Rendering</h4>
 </p>
 <br/>
 
