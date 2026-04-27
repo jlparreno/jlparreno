@@ -14,8 +14,6 @@
   
    - 💻 I’m a <strong>Rendering Engineer</strong> with <strong>7+ years of professional experience</strong> in real-time graphics and rendering technologies.<br><br>
 
-   - ☕ Currently, I’m taking a <strong>professional break</strong> to fill this GitHub with exciting projects and experiments.<br><br>
-
    - 🌶️ I’m working on a <strong>personal project</strong>: a new render engine called <strong>“Jalapeño”</strong>.<br><br>
    </div>
 <br>
