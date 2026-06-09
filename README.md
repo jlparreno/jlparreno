@@ -14,9 +14,11 @@
 
   - 💻 I'm a <strong>Rendering Engineer</strong> with <strong>7+ years of professional experience</strong> in real-time graphics and rendering technologies.<br><br>
 
-  - 🎮 I'm currently learning <strong>Unreal Engine</strong>, exploring how its rendering pipeline works under the hood and how to extend it. My goal is to combine this with my background in low-level graphics to push character and visual fidelity work further.<br><br>
+  - 🎮 I recently completed a C++ course on <strong>Unreal Engine</strong>, getting hands-on with the framework and understanding how to work within its ecosystem. My goal is to explore how its rendering pipeline works under the hood and how to extend it, combining this with my background in low-level graphics to push character and visual fidelity further.<br><br>
 
-  - 🌶️ I'm also the author of <strong>Jalapeño</strong>, a personal OpenGL render engine currently on pause, but with a Vulkan port and other features still on the roadmap.<br><br>
+  - 🌶️ I'm the author of <strong>Jalapeño</strong>, a personal OpenGL render engine with a forward render architecture, shadow mapping and PBR material support.<br><br>
+  
+  - 🌋 I'm currently learning <strong>Vulkan</strong>, actively building a Vulkan branch of my personal renderer Jalapeño as a hands-on way to work with modern low-level graphics APIs.<br><br>
 
   - 🎯 My most recent role gave me the opportunity to work deeply on <strong>character rendering</strong> — hair, feathers, eyes — and that experience left a real mark on me.<br><br>
 
