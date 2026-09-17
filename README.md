@@ -1,47 +1,116 @@
-<H1 ALIGN="CENTER">👋 Welcome to my Github!</H1>
+<h1 align="center">Javier Lapeña Parreño</h1>
 
 <p align="center">
-  <h3 align="center">My name is Javier Lapeña</h3>
+  <strong>Rendering Engineer &amp; Technical Artist</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jlparreno/JalapenoVK"><img src="assets/ibl.jpg" height="260" alt="JalapenoVK: glTF asset lit entirely by image-based lighting" /></a>
+  <a href="https://github.com/jlparreno/Jalapeno"><img src="assets/editor.jpg" height="260" alt="Jalapeno engine editor: scene hierarchy, light properties, material browser and live console" /></a>
 </p>
 <p align="center">
-  <h4 align="center">Render Engineer | Computer Graphics | Real-Time Rendering | Character Tech</h4>
+  <sub><em>Left:</em> <a href="https://github.com/jlparreno/JalapenoVK">JalapenoVK</a> — my Vulkan 1.4 engine, glTF under image-based lighting.
+  <em>Right:</em> <a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a> — my OpenGL engine and its editor, 6.1 ms/frame on Sponza.</sub>
 </p>
-<br/>
 
-<h2 align="center">About Me</h2>
+---
 
-<div align="left">
-
-  - 💻 I'm a <strong>Rendering Engineer</strong> with <strong>7+ years of professional experience</strong> in real-time graphics and rendering technologies.<br><br>
-
-  - 🎮 I recently completed a C++ course on <strong>Unreal Engine</strong>, getting hands-on with the framework and understanding how to work within its ecosystem. My goal is to explore how its rendering pipeline works under the hood and how to extend it, combining this with my background in low-level graphics to push character and visual fidelity further.<br><br>
-
-  - 🌶️ I'm the author of <strong>Jalapeño</strong>, a personal OpenGL render engine with a forward render architecture, shadow mapping and PBR material support.<br><br>
-  
-  - 🌋 I'm currently learning <strong>Vulkan</strong>, actively building a Vulkan branch of my personal renderer Jalapeño as a hands-on way to work with modern low-level graphics APIs.<br><br>
-
-  - 🎯 My most recent role gave me the opportunity to work deeply on <strong>character rendering</strong> — hair, feathers, eyes — and that experience left a real mark on me.<br><br>
-
-</div>
-<br>
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl" />&nbsp;
-  <img src="https://img.shields.io/badge/GLSL-FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine" />&nbsp;
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake" />&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio" />&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code" />&nbsp;
-  <img src="https://img.shields.io/badge/NVIDIA_Nsight-76B900?logo=nvidia" />&nbsp;
-  <img src="https://img.shields.io/badge/RenderDoc-1a1a1a?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git" />
+  <strong>I build render engines, and I love to put them in artists' hands.</strong><br/>
+  <sub>7+ years of experience · 2 Netflix features · Film &amp; Simulation → Games</sub>
 </p>
-<br>
 
-<h2 align="center">📬 Get in Touch</h2>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ Real-time Rendering
+
+*Engine cores, from the pipeline up.*
+
+- Forward and Deferred pipelines
+- **OpenGL 1.5 → 4.6** migration
+- **Vulkan 1.4** engine from scratch
+- Features implementation: **SSAO** and **PBR**
+- Profiling: **RenderDoc**, **Nsight**
+
+</td>
+<td width="33%" valign="top">
+
+### 🧬 Character Tech
+
+*Where the hardest problems live.*
+
+- **Hair and feathers** via tessellation
+- **Eye refraction** via ray tracing
+- **Mesh processing** and simplification
+- **Real-time deformers**
+- Four years in R&D at **Skydance**
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tech Art
+
+*Rendering code artists open every day.*
+
+- Render engine shipped **inside Maya**
+- Used daily on *Swapped*, *Spellbound*
+- **OpenUSD** pipeline interchange
+- **Asset data** flow between teams
+- Collaboration with grooming, rigging, animation, CFX
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Personal Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌋 <a href="https://github.com/jlparreno/JalapenoVK">JalapenoVK</a></h3>
+
+<p align="center"><strong>Vulkan 1.4 · C++20</strong></p>
+
+Metallic-roughness PBR with image-based lighting generated on the GPU at startup, pass-based dynamic rendering, entity-component scene, Slang shaders compiled to SPIR-V.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌶️ <a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a></h3>
+
+<p align="center"><strong>OpenGL 4.6 · C++</strong></p>
+
+Full **ImGui editor**: scene hierarchy, live material and transform editing, render settings, in-app console. Forward pipeline, PCF and omnidirectional shadows, HDR skybox.
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Tech Stack</h2>
+
 <p align="center">
-  <a href="mailto:javier.jlp92@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/javier-lapeña-parreño-062313b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulkan-A41E22?logo=vulkan&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL%20%2F%20HLSL%20%2F%20Slang-1a1a1a" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maya-37A5CC?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenUSD-0F9D58" />
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/RenderDoc-1a1a1a" />
+  <img src="https://img.shields.io/badge/NVIDIA_Nsight-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
+
+<h2 align="center">Get in Touch</h2>
+
+<p align="center">
+  <a href="mailto:javier.jlp92@gmail.com"><img src="https://img.shields.io/badge/Email-javier.jlp92@gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/javier-lapeña-parreño-062313b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Madrid, Spain · Open to remote across Europe</sub></p>
