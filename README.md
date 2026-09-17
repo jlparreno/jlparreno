@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/jlparreno/Jalapeno"><img src="assets/editor.jpg" width="70%" alt="Jalapeno engine editor: scene hierarchy, light properties, material browser and live console" /></a><br/>
-  <sub><a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a> — my OpenGL engine and its editor, 6.1 ms/frame on Sponza.</sub>
+  <sub><a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a> — my OpenGL engine and its editor.</sub>
 </p>
 
 ---
