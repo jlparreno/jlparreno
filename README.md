@@ -1,24 +1,31 @@
 <h1 align="center">Javier Lapeña Parreño</h1>
 
-<p align="center">
-  <strong>Rendering Engineer &amp; Technical Artist</strong>
-</p>
+---
+
+<h3 align="center">Rendering Engineer &amp; Computer Graphics</h3>
 
 <p align="center">
-  <a href="https://github.com/jlparreno/JalapenoVK"><img src="assets/ibl.jpg" height="260" alt="JalapenoVK: glTF asset lit entirely by image-based lighting" /></a>
-  <a href="https://github.com/jlparreno/Jalapeno"><img src="assets/editor.jpg" height="260" alt="Jalapeno engine editor: scene hierarchy, light properties, material browser and live console" /></a>
+  <strong>I build render engines, and I love to put them in artists' hands.</strong>
 </p>
 <p align="center">
-  <sub><em>Left:</em> <a href="https://github.com/jlparreno/JalapenoVK">JalapenoVK</a> — my Vulkan 1.4 engine, glTF under image-based lighting.
-  <em>Right:</em> <a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a> — my OpenGL engine and its editor, 6.1 ms/frame on Sponza.</sub>
+  <sub>7+ years of experience &nbsp;·&nbsp; 2 Netflix features &nbsp;·&nbsp; Film &amp; Simulation → Games</sub>
 </p>
 
 ---
 
 <p align="center">
-  <strong>I build render engines, and I love to put them in artists' hands.</strong><br/>
-  <sub>7+ years of experience · 2 Netflix features · Film &amp; Simulation → Games</sub>
+  <a href="https://github.com/jlparreno/JalapenoVK"><img src="assets/ibl.jpg" width="70%" alt="JalapenoVK: glTF asset lit entirely by image-based lighting" /></a><br/>
+  <sub><a href="https://github.com/jlparreno/JalapenoVK">JalapenoVK</a> — my Vulkan 1.4 engine, glTF under image-based lighting.</sub>
 </p>
+
+<p align="center">
+  <a href="https://github.com/jlparreno/Jalapeno"><img src="assets/editor.jpg" width="70%" alt="Jalapeno engine editor: scene hierarchy, light properties, material browser and live console" /></a><br/>
+  <sub><a href="https://github.com/jlparreno/Jalapeno">Jalapeño</a> — my OpenGL engine and its editor, 6.1 ms/frame on Sponza.</sub>
+</p>
+
+---
+
+<h2 align="center">What Can I Do?</h2>
 
 <table>
 <tr>
